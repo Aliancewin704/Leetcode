@@ -1,4 +1,4 @@
-package org.example.Fundamental.MostCommonWord;
+package org.example.Fundamental.Most_Common_Word;
 
 public class Main {
     public static void main(String[] args) {
