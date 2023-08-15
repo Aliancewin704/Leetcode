@@ -20,10 +20,8 @@ public class MaxPairSumInAnArray {
                         res = Math.max(map.get(n) + nums[i], res);
                         if (map.get(n) < nums[i]) {
                             map.put(n, nums[i]);
-                            break;
-                        } else {
-                            break;
                         }
+                        break;
                     }
                 }
                 n = Math.max(n, num % 10);
