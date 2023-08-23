@@ -1,4 +1,4 @@
-package org.example.Fundamental.NeitherMinimumNorMaximum;
+package org.example.Fundamental.Neither_Minimum_Nor_Maximum;
 
 public class NeitherMinimumNorMaximum {
 
