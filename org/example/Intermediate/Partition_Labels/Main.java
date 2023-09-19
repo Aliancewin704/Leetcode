@@ -1,4 +1,4 @@
-package org.example.Fundamental.Partition_Labels;
+package org.example.Intermediate.Partition_Labels;
 
 public class Main {
     public static void main(String[] args) {

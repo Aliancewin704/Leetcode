@@ -1,4 +1,4 @@
-package org.example.Fundamental.Partition_Labels;
+package org.example.Intermediate.Partition_Labels;
 
 import java.util.ArrayList;
 import java.util.HashMap;
