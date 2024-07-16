@@ -1,4 +1,4 @@
-package org.example.Fundamental.Search_In_Rotated_Sorted_Array;
+package org.example.Intermediate.Search_In_Rotated_Sorted_Array;
 
 public class Main {
     public static void main(String[] args) {
